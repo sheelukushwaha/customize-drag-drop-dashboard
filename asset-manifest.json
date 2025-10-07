@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-developer-projects/customize-drag-drop-dashboard/static/css/main.3c0f7a33.css",
+    "main.js": "/react-developer-projects/customize-drag-drop-dashboard/static/js/main.f762d76c.js",
+    "static/js/453.aed8abe6.chunk.js": "/react-developer-projects/customize-drag-drop-dashboard/static/js/453.aed8abe6.chunk.js",
+    "index.html": "/react-developer-projects/customize-drag-drop-dashboard/index.html",
+    "main.3c0f7a33.css.map": "/react-developer-projects/customize-drag-drop-dashboard/static/css/main.3c0f7a33.css.map",
+    "main.f762d76c.js.map": "/react-developer-projects/customize-drag-drop-dashboard/static/js/main.f762d76c.js.map",
+    "453.aed8abe6.chunk.js.map": "/react-developer-projects/customize-drag-drop-dashboard/static/js/453.aed8abe6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c0f7a33.css",
+    "static/js/main.f762d76c.js"
+  ]
+}
